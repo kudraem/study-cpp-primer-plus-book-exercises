@@ -1,4 +1,4 @@
-# Study С - "C++ Primer Plus" book exercises solution
+# Study С++ - "C++ Primer Plus" book exercises solution
 
 ## Book info
 [C++ Primer Plus, 6th Edition, by Stephen Prata](https://www.amazon.com/Primer-Plus-6th-Developers-Library/dp/0321776402)
