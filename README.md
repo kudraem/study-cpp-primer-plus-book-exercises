@@ -9,6 +9,7 @@
 	* [Exercise 2](https://github.com/kudraem/study-cpp-primer-plus-book-exercises/blob/master/chapter_2/exercise_2_2/solution.cpp)
 	* [Exercise 3](https://github.com/kudraem/study-cpp-primer-plus-book-exercises/blob/master/chapter_2/exercise_2_3/solution.cpp)
 	* [Exercise 4](https://github.com/kudraem/study-cpp-primer-plus-book-exercises/blob/master/chapter_2/exercise_2_4/solution.cpp)
+	* [Exercise 5](https://github.com/kudraem/study-cpp-primer-plus-book-exercises/blob/master/chapter_2/exercise_2_5/solution.cpp)
 * Chapter 2
 * Chapter 3
 * Chapter 4
